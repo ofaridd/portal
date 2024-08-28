@@ -3,8 +3,8 @@
 
 This is a part of a group project conducted for Software Engineering course, with the help of our mentors Eng. Donia and Professor Dessoky.
 
-Omar Farid (Me) - Omar Fahmy
-Mohamed Sameh - Abdelrahman Dabour 
+- Omar Farid (Me) - Omar Fahmy
+- Mohamed Sameh - Abdelrahman Dabour 
 
 # Overview
 
